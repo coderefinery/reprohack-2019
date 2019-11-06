@@ -21,20 +21,20 @@ This event is inspired by the ReproHack two of us particpated at CarpentryConnec
 
 We can reuse these papers with permission also in this event.
 
-- https://link.springer.com/article/10.1007/s10584-015-1580-2
-- https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.12587
-- https://apsjournals.apsnet.org/doi/10.1094/PDIS-10-18-1718-RE
-- https://doi.org/10.1039/c9cp00203k
-- https://doi.org/10.1063/1.4965881
-- https://doi.org/10.1086/702704
-- https://doi.org/10.3390/insects9040186
-- https://github.com/sje30/eglen2015
-- https://doi.org/10.1186/2047-217X-3-3
-- https://peerj.com/articles/4152/
-- https://www.joelnitta.com/publication/2019-03-27_pleurosoriopsis/
-- https://shiny.tradestatistics.io
-- http://doi.org/10.5334/jors.219
-- https://psyarxiv.com/vhc5k
+1. https://link.springer.com/article/10.1007/s10584-015-1580-2
+2. https://onlinelibrary.wiley.com/doi/abs/10.1111/gcb.12587
+3. https://apsjournals.apsnet.org/doi/10.1094/PDIS-10-18-1718-RE
+4. https://doi.org/10.1039/c9cp00203k
+5. https://doi.org/10.1063/1.4965881
+6. https://doi.org/10.1086/702704
+7. https://doi.org/10.3390/insects9040186
+8. https://github.com/sje30/eglen2015
+9. https://doi.org/10.1186/2047-217X-3-3
+10. https://peerj.com/articles/4152/
+11. https://www.joelnitta.com/publication/2019-03-27_pleurosoriopsis/
+12. https://shiny.tradestatistics.io
+13. http://doi.org/10.5334/jors.219
+14. https://psyarxiv.com/vhc5k
 
 
 ### Papers submitted by participants
